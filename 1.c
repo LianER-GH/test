@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <math.h>
+
 int func(int num)
 {
 	if(num == 1) return num;
